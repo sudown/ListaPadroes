@@ -1,0 +1,15 @@
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\bin\Debug\net8.0\ListaPadroes.exe
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\bin\Debug\net8.0\ListaPadroes.deps.json
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\bin\Debug\net8.0\ListaPadroes.runtimeconfig.json
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\bin\Debug\net8.0\ListaPadroes.dll
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\bin\Debug\net8.0\ListaPadroes.pdb
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.AssemblyInfoInputs.cache
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.AssemblyInfo.cs
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.csproj.CoreCompileInputs.cache
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.sourcelink.json
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.dll
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\refint\ListaPadroes.dll
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.pdb
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ListaPadroes.genruntimeconfig.cache
+C:\Users\mirosmar.santos\source\repos\ListaPadroes\ListaPadroes\obj\Debug\net8.0\ref\ListaPadroes.dll
