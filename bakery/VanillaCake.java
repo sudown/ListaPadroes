@@ -3,9 +3,4 @@ public class VanillaCake extends Cake {
     public String getDescription() {
         return "Vanilla cake";
     }
-
-    @Override
-    public int getCost() {
-        return 15;
-    }
 }

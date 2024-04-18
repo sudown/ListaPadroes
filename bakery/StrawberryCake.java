@@ -1,4 +1,5 @@
 public class StrawberryCake extends Cake{
+  private final int CAKE_COST = 20;
 
   @Override
   public String getDescription() {
@@ -7,6 +8,6 @@ public class StrawberryCake extends Cake{
   
   @Override
   public int getCost() {
-      return 30;
+      return CAKE_COST;
   }
 }
